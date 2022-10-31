@@ -21,7 +21,7 @@ __Requirements__:
 - Extremely good knowledge of Javascript
 - Knowledge of databases such as SQL etc.
 - A Github account where we can see what you've got (we look at your repositories)
-- You must be at least 13/14 years old (because Discord ToS), there are no exceptions
+- You must be at least 13/14 years old, there are no exceptions
 
 __Beneficial Skills__:
 - HTML, css
