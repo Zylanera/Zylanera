@@ -32,7 +32,7 @@ Do you have more knowledge that is **not** listed here? Let us know in your appl
 
 **- - - - - - - - - - - - - - - - - - - - - - - - - - -**
 
-If we have aroused your interest, simply write your application to @AdiayX#8830!
+If we have aroused your interest, simply write your application to @AdiayX#8830 [Discord]!
 
 Kind regards.
 AdiayX Development | AdiayX#8830
