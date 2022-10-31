@@ -7,7 +7,7 @@
 
 # Leader of AdiayX Development
 
-###AdiayX Development News:
+__AdiayX Development News:__
 
 **AdiayX Development is searching for a few JavaScript Developers :D** 
 - ` I ` = @AdiayX#8830
