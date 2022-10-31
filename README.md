@@ -1,11 +1,11 @@
 # About Me
 
-He/Him
-14 y/o
-29.03.2008
-Vienna, Austria
+- He/Him
+- 14 y/o
+- 29.03.2008
+- Vienna, Austria
 
-Leader of AdiayX Development
+# Leader of AdiayX Development
 
 ###AdiayX Development News:
 
