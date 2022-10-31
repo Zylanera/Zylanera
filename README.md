@@ -7,10 +7,10 @@ Vienna, Austria
 
 Leader of AdiayX Development
 
-###AdiayX Development News
+###AdiayX Development News:
 
-@everyone 
-**AdiayX Development is searching for a few JavaScript Developers :D** || ` I ` = @AdiayX#8830 ||
+**AdiayX Development is searching for a few JavaScript Developers :D** 
+- ` I ` = @AdiayX#8830
 
 We are currently looking for a developer for the AdiayX botlist panel.
 
