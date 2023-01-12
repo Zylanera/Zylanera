@@ -1,12 +1,13 @@
 # About Me
 
-- He/Him
-- 14 y/o
+- He/Him/His/...
+- 14 years old
 - 29.03.2008
-- Vienna, Austria
+- Vienna, Austria, Europe, Earth
 
-# Leader of AdiayX Development
+# Main Project: paperstream.tk
 
-__AdiayX Development News:__
-
-Nothing New Right Now . . .
+Published: No
+Discord: https://discord.paperstream.tk/
+Github: https://github.com/paperstream/
+Other: none
