@@ -7,7 +7,7 @@
 
 # Main Project: paperstream.tk
 
-Published: No
-Discord: https://discord.paperstream.tk/
-Github: https://github.com/paperstream/
+Published: No <br>
+Discord: https://discord.paperstream.tk/ <br>
+Github: https://github.com/paperstream/ <br>
 Other: none
