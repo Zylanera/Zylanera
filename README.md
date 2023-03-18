@@ -20,9 +20,9 @@
 
 #
 
-<b>Main Project: BetterWebDesign (CSS Framework)</b><br>
-Type: CSS Framework, Development Project<br>
+<b>Main Project: BetterWebDesign => BWD (CSS Framework)</b><br>
+Type: CSS Framework<br>
 Link: https://github.com/Adrian-Dorbez/betterwebdesign <br>
 Website: none <br>
 Published: Yes <br>
-Version: 1.9.3
+Version: v1.9.3
