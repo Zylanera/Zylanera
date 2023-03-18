@@ -25,4 +25,4 @@ Type: CSS Framework, Development Project<br>
 Link: https://github.com/Adrian-Dorbez/betterwebdesign <br>
 Website: none <br>
 Published: Yes <br>
-Version: 1.0.5
+Version: 1.9.3
