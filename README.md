@@ -3,7 +3,7 @@
 - He/Him
 - 14 years old
 - 29.03.2008
-- Vienna, Austria, Europe, Earth
+- Austria, Europe, Earth
 
 
 #
