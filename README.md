@@ -1,5 +1,5 @@
 ### 👋 Hey, I'm Adrian,
-a self-taught Node.js developer that tries to improve his programming skills.
+a self-taught developer that tries to improve his programming skills.
 
 - 🎓 I’m currently visiting *HTL Wien 10* (Vienna, Europe)
 - 🔭 I’m mainly working on Discord bots.
