@@ -16,6 +16,6 @@ a self-taught Node.js developer that tries to improve his programming skills.
 #### 🔧 Tools & Other
 <img alt="Microsoft VSC" src="https://img.shields.io/badge/VisualStudioCode-%230db7ed.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-#### 🚀 Contact with me
+#### 🚀 Contact me
 [![Mail Me](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dorbez.ad@gmail.com)
 [![Discord](https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/901156033618137089)
