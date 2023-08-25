@@ -1,7 +1,7 @@
 ### 👋 Hey, I'm Adrian,
 a self-taught developer that tries to improve his programming skills.
 
-- 🎓 I’m currently working at *raiffeisenlandesbank W-NOE* (Vienna, Europe)
+- 🎓 I’m currently working at *Raiffeisenlandesbank NOE-W* (Vienna, Europe)
 - 🔭 I’m mainly working on Websites.
 - 🌱 I’m currently learning *Vue.js*
 
