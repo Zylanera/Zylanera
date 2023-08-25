@@ -1,9 +1,9 @@
 ### 👋 Hey, I'm Adrian,
 a self-taught developer that tries to improve his programming skills.
 
-- 🎓 I’m currently visiting *HTL Wien 10* (Vienna, Europe)
-- 🔭 I’m mainly working on Discord bots.
-- 🌱 I’m currently learning *Vue.js* and *Discord.js v13*
+- 🎓 I’m currently working at *raiffeisenlandesbank W-NOE* (Vienna, Europe)
+- 🔭 I’m mainly working on Websites.
+- 🌱 I’m currently learning *Vue.js*
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/901156033618137089)](https://discord.com/users/901156033618137089)
 
@@ -18,4 +18,3 @@ a self-taught developer that tries to improve his programming skills.
 
 #### 🚀 Contact me
 [![Mail Me](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dorbez.ad@gmail.com)
-[![Discord](https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/901156033618137089)
