@@ -33,10 +33,10 @@ I've been working in the programming industry since about ~ 2020. I started with
 I own, maintain and work on many projects. Most of the projects are currently still private, under development or in maintenance.
 | Project Name | Description | Release | Rank |
 |--------------|-------------|---------|------|
-| [Zylix](https://zylix.eu/) | A Website for my projects | Online - Work in progress | Standalone |
-| [Zylix Solutions](https://solutions.zylix.eu) | = Zylix, but for the Logo when Used in Videos, Photos, ... | Online - Work in progress | Standalone |
-| [Zylix Status](https://status.zylix.eu) | The Zylix Status page for all Services | Online | Standalone |
-| CSS Frame | A Webdesign Framework I'm working on right now (Alternatie to Bootstrap) | Release - Not Final | Head |
+| [Zylix](https://zylix.eu/) | A Website for my projects | Release - Work in progress | Standalone |
+| [Zylix Solutions](https://solutions.zylix.eu) | = Zylix, but for the Logo when Used in Videos, Photos, ... | Release - Work in progress | Standalone |
+| [Zylix Status](https://status.zylix.eu) | The Zylix Status page for all Services | Released | Standalone |
+| CSS Frame | A Webdesign Framework I'm working on right now (Alternatie to Bootstrap) | Release - Work in progress | Head |
 | Pletix | The "old" Zylix | Online - Until Feb, 23th 2024 | Standalone |
 
 
