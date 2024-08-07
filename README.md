@@ -1,10 +1,10 @@
 # Hey!
-<hr>
+
 I hide myself under the name Zyla Nera, I was born on March 29th and currently live in Vienna, Austria. 
 
 ### About me
 
-I've been working in the programming industry since about ~ 2020. I started with programming Discord bots with the library discord.js. From then on I slipped further and further into the web development industry. 
+I've been working in the programming industry since ~2020. I started with programming Discord bots with the library discord.js. From then on I slipped further and further into the web development industry. 
 
 ### Languages/Frameworks I know
 
@@ -26,18 +26,18 @@ I've been working in the programming industry since about ~ 2020. I started with
 ### Social Media
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<hr>
 
 ### My projects
 I own, maintain and work on many projects. Most of the projects are currently still private, under development or in maintenance.
 | Project Name | Description | Release | Rank |
 |--------------|-------------|---------|------|
-| [Zylix](https://zylix.eu/) | A Website for my projects | Release - Work in progress | Standalone |
-| [Zylix Solutions](https://solutions.zylix.eu) | = Zylix, but for the Logo when Used in Videos, Photos, ... | Release - Work in progress | Standalone |
-| [Zylix Status](https://status.zylix.eu) | The Zylix Status page for all Services | Released | Standalone |
-| CSS Frame | A Webdesign Framework I'm working on right now (Alternatie to Bootstrap) | Release - Work in progress | Head |
-| Pletix | The "old" Zylix | Online - Until Feb, 23th 2024 | Standalone |
+| [Zylix](https://zylix.eu/) | A Website for my projects | Live - Work in progress | Standalone |
+| [Zylix Status](https://status.zylix.eu) | The Zylix Status page for all Services | Live | Standalone |
+| CSS Frame | A Webdesign Framework  (Alternative to Bootstrap) | Cancelled | Standalone |
+| [Pletix](https://sta.pletix.org/wiki) |  Star Trek Adventures Project | Live - Work in Progress | Standalone |
 
 
 ### Stats
