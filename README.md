@@ -2,6 +2,8 @@
 
 I hide myself under the name Zyla Nera, I was born on March 29th and currently live in Vienna, Austria. 
 
+<a href="https://discord.com/users/901156033618137089"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/901156033618137089?bg=" /></a>
+
 ### About me
 
 I've been working in the programming industry since ~2020. I started with programming Discord bots with the library discord.js. From then on I slipped further and further into the web development industry. 
