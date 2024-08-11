@@ -6,7 +6,7 @@ I hide myself under the name Zyla Nera, I was born on March 29th and currently l
 
 ### About me
 
-I've been working in the programming industry since ~2020. I started with programming Discord bots with the library discord.js. From then on I slipped further and further into the web development industry. 
+I have been working in the programming industry as a hobby since around 2020. I started by programming Discord bots with the discord.js library, but now I am more active in the web development branche.
 
 ### Languages/Frameworks I know
 
@@ -33,13 +33,28 @@ I've been working in the programming industry since ~2020. I started with progra
 <hr>
 
 ### My projects
-I own, maintain and work on many projects. Most of the projects are currently still private, under development or in maintenance.
+I own, maintain and work on many projects.
+
+> [!NOTE]
+> All Projects will be able to find here: https://www.zylix.eu/ - but the Website is still under development and is NOT online at this Point.
+> 
+> I have an Discord Server for Questions to my projects: [Join Now](https://hello.zylix.eu/discord)
+>
+> 
+
+
+> [!WARNING]
+> Some informations may be outdated!
+>
+> 
+
+
 | Project Name | Description | Release | Rank |
 |--------------|-------------|---------|------|
-| [Zylix](https://zylix.eu/) | A Website for my projects | Live - Work in progress | Standalone |
-| [Zylix Status](https://status.zylix.eu) | The Zylix Status page for all Services | Live | Standalone |
-| CSS Frame | A Webdesign Framework  (Alternative to Bootstrap) | Cancelled | Standalone |
-| [Pletix](https://sta.pletix.org/wiki) |  Star Trek Adventures Project | Live - Work in Progress | Standalone |
+| [Zylix](https://zylix.eu/) | A Website for my projects | ⚠️ Offline - Work in progress | 👤 Standalone |
+| [Zylix Status](https://status.zylix.eu) | The Zylix Status page for all Services | ✅ Live | 👤 Standalone |
+| CSS Frame | A Webdesign Framework  (Alternative to Bootstrap) | ⚠️ Offline - Project Cancelled | 👥 Team-Project |
+| [Pletix](https://sta.pletix.org/wiki) |  Star Trek Adventures Project | ✅ Live - Work in Progress | 👤 Standalone |
 
 
 ### Stats
