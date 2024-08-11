@@ -1,6 +1,6 @@
 # Hey!
 
-I hide myself under the name Zyla Nera, I was born on March 29th and currently live in Vienna, Austria. 
+I hide myself under the name Zyla Nera.
 
 <a href="https://discord.com/users/901156033618137089"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/901156033618137089?bg=" /></a>
 
