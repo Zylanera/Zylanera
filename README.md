@@ -72,7 +72,7 @@ I own, maintain and work on many projects.
 |--------------|-------------|---------|------|
 | [Zylix](https://zylix.eu/) | A Website for my projects | ⚠️ Offline - Work in progress | 👤 Standalone |
 | [Zylix Status](https://status.zylix.eu) | The Zylix Status page for all Services | ✅ Live | 👤 Standalone |
-| CSS Frame | A Webdesign Framework  (Alternative to Bootstrap) | ⚠️ Offline - Project Cancelled | 👥 Team-Project |
+| CSS Frame | A Webdesign Framework  (Alternative to Bootstrap) | ⚠️ Offline - Project Archived | 👥 Team-Project |
 | [Pletix](https://sta.pletix.org/wiki) |  Star Trek Adventures Project | ✅ Live - Work in Progress | 👤 Standalone |
 
 
