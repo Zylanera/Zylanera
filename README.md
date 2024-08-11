@@ -74,7 +74,3 @@ I own, maintain and work on many projects.
 | [Zylix Status](https://status.zylix.eu) | The Zylix Status page for all Services | ✅ Live | 👤 Standalone |
 | [CSS Frame](https://github.com/CssFrame) | A Webdesign Framework  (Alternative to Bootstrap) | ⚠️ Offline - Project Archived | 👥 Team-Project |
 | [Pletix](https://sta.pletix.org/wiki) |  Star Trek Adventures Project | ✅ Live - Work in Progress | 👤 Standalone |
-
-
-### Stats
-![Zylaneras's GitHub stats](https://github-readme-stats.vercel.app/api?username=zylanera&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF)
