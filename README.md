@@ -1,6 +1,6 @@
 # Hey!
 
-I hide myself under the name Zyla Nera.
+I hide myself under the name Zyla Nera here, and sweety.vin on Discord.
 
 <a href="https://discord.com/users/901156033618137089"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/901156033618137089?bg=" /></a>
 
