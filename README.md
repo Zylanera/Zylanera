@@ -9,12 +9,10 @@ I hide myself under the name Zyla Nera, I was born on March 29th and currently l
 I have been working in the programming industry as a hobby since around 2020. I started by programming Discord bots with the discord.js library, but now I am more active in the web development branche.
 
 ### Languages/Frameworks I know
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![Vue](https://img.shields.io/badge/vue.js%20-%23404d59.svg?&style=for-the-badge&logo=vue.js)
 
 
 ### IDE's I use
