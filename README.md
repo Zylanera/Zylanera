@@ -70,7 +70,7 @@ I own, maintain and work on many projects.
 
 | Project Name | Description | Release | Rank |
 |--------------|-------------|---------|------|
-| [Zylix](https://zylix.eu/) | A Website for my projects | ⚠️ Offline - Work in progress | 👤 Standalone |
-| [Zylix Status](https://status.zylix.eu) | The Zylix Status page for all Services | ✅ Live | 👤 Standalone |
+| [Zylix](https://zylix.eu/) | My personal website | ⚠️ Offline - Work in progress | 👤 Standalone |
+| [adrichan.me](https://adrichan.me/) | My personal website | ⚠️ Offline - Work in progress | 👤 Standalone |
 | [CSS Frame](https://github.com/CssFrame) | A Webdesign Framework  (Alternative to Bootstrap) | ⚠️ Offline - Project Archived | 👥 Team-Project |
-| [Pletix](https://sta.pletix.org/wiki) |  Star Trek Adventures Project | ✅ Live - Work in Progress | 👤 Standalone |
+| [STA Wiki](https://wiki.pletix.org/) |  Star Trek Adventures Project | ✅ Live - Work in Progress | 👥 Team-Project |
