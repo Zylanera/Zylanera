@@ -50,7 +50,7 @@ I have been working in the programming industry as a hobby since around 2020. I 
 
 <br>
 
-<a href="https://www.buymeacoffee.com/zylanera" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/zylanera" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'T6T11D1ADG');kofiwidget2.draw();</script> 
 
 <hr>
 
