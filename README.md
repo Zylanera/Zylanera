@@ -1,6 +1,6 @@
 # Hey!
 
-I hide myself under the name Zyla Nera here, and sweety.vin on Discord.
+I hide myself under the name Zyla Nera here, and sweety.vin on Discord. 
 
 <a href="https://discord.com/users/901156033618137089"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/901156033618137089?bg=" /></a>
 
@@ -48,6 +48,9 @@ I have been working in the programming industry as a hobby since around 2020. I 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+<br>
+
+<a href="https://www.buymeacoffee.com/zylanera" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <hr>
 
