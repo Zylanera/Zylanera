@@ -6,7 +6,7 @@ I hide myself under the name Zyla Nera here, and sweetie.vin on Discord.
 
 ### About me
 
-I have been working in the programming industry as a hobby since around 2020. I started by programming Discord bots with the discord.js library, but now I am more active in the web development branche.
+I'm just a Javascript (Node) Enthusiast, Manga  & Anime Lover and Hobby Server Administrator
 
 ### Languages/Frameworks
 
