@@ -12,35 +12,23 @@
 
 ### About me
 
-I build clean, fast frontends with a soft spot for UX polish and performance budgets.  
-On the side, I tinker with self-hosting, homelab setups, and the occasional CSS micro-experiment.
+I'm experimenting with self-hosting, homelab setups, and write some applications I (may) need.
 
 - 💻 **Stack:** HTML • CSS • JavaScript (Node) • Python
 - 🔧 **Tools:** VS Code, Git, Docker, Cloudflare, etc.  
 - 🎨 **Design:** Figma, Canva  
-- 🖥️ **OS:** Windows 11 & Ubuntu  
-- 💬 **Contact:** Discord `sweetie.vin` • Website <a href="https://adrichan.me">adrichan.me</a>
-
----
-
-### What I value
-
-- **Clarity over cleverness.** Readable code wins.
-- **Small, composable pieces.** Fewer surprises, easier testing.
-- **Pragmatic tooling.** Automate the boring stuff, measure the rest.
-- **A11y & performance.** Fast for everyone, not just “my machine”.
+- 🖥️ **OS:** Windows 11, Ubuntu, Zorin OS, Unraid
+- 💬 **Contact:** Discord `sweetie.vin` • Website (offline for now) <a href="https://adrichan.me">adrichan.me</a>
 
 ---
 
 ### Featured projects
 
+(coming soon)
+
 | Project | What it is | Status / Stack |
 | --- | --- | --- |
-| **Zylix** | Personal website playground; layout systems and content experiments. | WIP • HTML/CSS/JS — <a href="https://github.com/Zylanera/zylix-eu-website">repo</a> |
-| **adrichan.me** | Personal site / profile hub. | WIP — <a href="https://adrichan.me">site</a> |
-| **Random Dragon Slider** | A tiny CSS/JS demo that keeps UI fun. | Live demo code — <a href="https://github.com/Zylanera/Random-Dragon-Slider">repo</a> |
-| **pletix-menu** | Lightweight page menu component extracted from a real site. | CSS — <a href="https://github.com/Zylanera/pletix-menu">repo</a> |
-| **STA Wiki** | Community wiki for Star Trek Adventures (contribs & tooling). | Live — <a href="https://wiki.pletix.org">wiki</a> |
+| Nothing | here | yet |
 
 > Pinned repos rotate—peek at my profile for more.
 
@@ -65,15 +53,9 @@ On the side, I tinker with self-hosting, homelab setups, and the occasional CSS 
 ### How to work with me
 
 - Open an issue with a **clear problem statement** and context.
-- I’m happy to review PRs—keep them **small and focused**.
-- If you’re stuck, **DM me on Discord** (`sweetie.vin`) and we’ll pair for a few minutes.
+- I’m happy to review PRs — keep them **small and focused**.
+- If you’re stuck, **DM me on Discord** (`sweetie.vin`).
 
 ---
 
-### A tiny opinion (because code without taste is just config)
-
-Frontends should feel effortless. If the DOM shivers when you scroll or the layout jumps when fonts load, that’s a bug. Design is a feature; performance is part of design.
-
----
-
-<sub>PS: Some older project notes might be out of date—feel free to nudge me if something looks stale.</sub>
+<sub>PS: Some older project notes might be out of date — feel free to nudge me if something looks wrong/outdated.</sub>
