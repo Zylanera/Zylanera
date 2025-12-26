@@ -28,6 +28,7 @@ I'm experimenting with self-hosting, homelab setups, and write some applications
 | --- | --- | --- | --- |
 | [uZip](https://github.com/Zylanera/uZip) | Software for unzipping many files at once | ✅ Actively maintained | Python |
 | [ipDoc](https://github.com/Zylanera/ipdoc) | Document your IP-Usage inside your Network (see which IPs are free, and which are used by what Service) - Nice for SysAdmins and Homelabbers - Works with a WebUI | ✅ Actively maintained | JavaScript, CSS, HTML |
+| [BooruDL](https://github.com/Zylanera/boorudl) | Download Images from -booru image boards (I recommend Danbooru, as the Script works best with it) | ✅ Actively maintained | Python |
 
 > Pinned repos rotate—peek at my profile for more.
 
