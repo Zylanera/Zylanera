@@ -24,11 +24,10 @@ I'm experimenting with self-hosting, homelab setups, and write some applications
 
 ### Featured projects
 
-(coming soon)
-
-| Project | What it is | Status / Stack |
-| --- | --- | --- |
-| Nothing | here | yet |
+| Project | What it is | Status | Stack |
+| --- | --- | --- | --- |
+| [uZip](https://github.com/Zylanera/uZip) | Software for unzipping many files at once | ✅ Actively maintained | Python |
+| [ipDoc](https://github.com/Zylanera/ipdoc) | Document your IP-Usage inside your Network (see which IPs are free, and which are used by what Service) - Nice for SysAdmins and Homelabbers - Works with a WebUI | ✅ Actively maintained | JavaScript, CSS, HTML |
 
 > Pinned repos rotate—peek at my profile for more.
 
