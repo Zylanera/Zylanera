@@ -17,7 +17,7 @@ I'm experimenting with self-hosting, homelab setups, and write some applications
 - 💻 **Stack:** HTML • CSS • JavaScript (Node) • Python
 - 🔧 **Tools:** VS Code, Git, Docker, Cloudflare, etc.  
 - 🎨 **Design:** Figma, Canva  
-- 🖥️ **OS:** Windows 11, Ubuntu, Zorin OS, Unraid
+- 🖥️ **OS:** Windows 11, Kubuntu, Ubuntu, Zorin OS, Unraid
 - 💬 **Contact:** Discord `sweetie.vin` • Website (offline for now) <a href="https://adrichan.me">adrichan.me</a>
 
 ---
